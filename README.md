@@ -1,5 +1,5 @@
 
-# 🖼️ Computer Vision Assignment 1
+# 🖼️ **"Exploring Computer Vision: Custom Architectures, Transfer Learning, and Occlusion Analysis"**
 
 ## 👤 Author
 **Omer Kamal Ali Ebead**
