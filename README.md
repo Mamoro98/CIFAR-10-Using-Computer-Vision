@@ -1,5 +1,5 @@
 
-# 🖼️ **"Exploring Computer Vision: Custom Architectures, Transfer Learning, and Occlusion Analysis"**
+# 🖼️ **Exploring Computer Vision: Custom Architectures, Transfer Learning, and Occlusion Analysis**
 
 ## 👤 Author
 **Omer Kamal Ali Ebead**
@@ -27,8 +27,8 @@ This project explores various approaches to solving computer vision challenges u
 ## 📂 Directory Structure
 ```
 .
-├── omer_cv_assignment_1.py     # Python implementation of the assignment
-├── omer_CV_Assignment_1.pdf    # Detailed description and results
+├── CIFAR-10-with-saliency-maps.py     # Python implementation
+├── CIFAR-10-with-saliency-maps.pdf    # Detailed description and results
 ```
 
 ---
@@ -55,7 +55,7 @@ pip install tensorflow numpy matplotlib seaborn pillow opencv-python requests
 2. ✅ Ensure all dependencies are installed.
 3. 🏃 Run the Python script:
    ```bash
-   python omer_cv_assignment_1.py
+   python CIFAR-10-with-saliency-maps.py
    ```
    The script will:
    - 🧪 Train models with various configurations for CIFAR-10.
